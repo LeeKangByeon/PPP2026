@@ -1,0 +1,31 @@
+1. 
+C = 30
+F= C * 1.8 + 32
+print(F)
+
+C = 0
+F= C * 1.8 + 32
+print(F)
+
+2. 
+W = 82
+H = 186
+BMI = W / H ** 2
+print(BMI)
+
+3.
+r = 4
+result = r * r
+print(result)
+
+4. 
+A = 5
+B = 3
+H = 4
+result = (A +  B) * H / 2
+print(result)
+
+5.
+price = 2000
+result = 2000 * (1 - 0.15)
+print(result)
